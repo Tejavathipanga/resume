@@ -1,0 +1,1 @@
+web: gunicorn voter_project.wsgi
